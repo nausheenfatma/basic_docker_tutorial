@@ -50,10 +50,10 @@ Checkt the last container. It ran and exited.
 
 ![Alt text](snippets/docker-desktop.png)
 
-On click opening the container link you can see that it echoed 'Hello World'
+On click opening the container link you can see that it echoed 'Hello World' inside the container
 
 ![Alt text](snippets/docker-output.png)
 
 
 
-Congrats. You are now all set to create some meaningful container images adding dependiecies and code in it.
+Congrats. You are now all set to create some meaningful container images adding dependencies and code in it.
