@@ -46,7 +46,7 @@ docker run -d -p 5002:5002 hello-docker
 
 ### 4. Check on Docker Desktop
 
-Checkt the last container. It ran and exited.
+Checkt the last container with tag hello-docker. It ran and exited.
 
 ![Alt text](snippets/docker-desktop.png)
 
